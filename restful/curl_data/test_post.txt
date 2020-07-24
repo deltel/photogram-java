@@ -1,0 +1,5 @@
+{
+photo=picture.jpg
+&description=First post made
+&user_id=1
+&created_on=20 Feb 2020

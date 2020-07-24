@@ -1,0 +1,9 @@
+firstname=john
+&lastname=doe
+&username=jdoe
+&password=password123
+&email=jdoe@anon.com
+&location=Kingston,
+&biography=First user to be tested by curl
+&profile_photo=picture.jpg
+&joined_on=22 Feb 2020

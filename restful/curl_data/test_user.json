@@ -1,0 +1,11 @@
+{
+	"firstname": "anonymous",
+	"lastname": "user",
+	"username": "anonuser",
+	"password": "password123",
+	"email": "anonuser@anon.com",
+	"location": "Kingston",
+	"biography": "First user to test log in",
+	"profile_photo": "picture5.jpg",
+	"joined_on": "22 Feb 2020"
+}
